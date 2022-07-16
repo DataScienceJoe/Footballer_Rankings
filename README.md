@@ -8,4 +8,4 @@ I've defined a peak as a player's highest average ranking over three consecutive
 
 RawFootballerData.csv includes the input data collated from The Guardians data, main.ipynb is the Pandas code used to clean and calculate averages from the data, and further editing is done using Microsoft Excel in order to produce the end product, final_graphic.xlsx. 
 
-P.s. While The Guardian do provide detailed spreadsheets, they definitely haven't realised how messy and incomplete they are... if you know anyone at The Guardian, you can let them know that I can give them cleaner and more complete versions of their spreadsheets to upload next year!
+P.S. While The Guardian do provide detailed spreadsheets, they definitely haven't realised how messy and incomplete they are... if you know anyone at The Guardian, you can let them know that I can give them cleaner and more complete versions of their spreadsheets to upload next year!
